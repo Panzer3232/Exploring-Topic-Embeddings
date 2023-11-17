@@ -23,6 +23,8 @@ Here's a list of topics and their associated words for the first category.
 - **Computer Hardware:** bios, controller, disk, scsi, floppy, ide, mb, drives, os, feature
 - **Space Mission:** lunar, launch, mission, nasa, satellite, space, shuttle, solar, moon, orbit
 
+  <img src="./img/20_ng (1)-1.png">
+
   ## Category 2: Topic Labels of Ag News
 Here's a list of topics and their associated words for the "Ag News" category.
 
@@ -51,3 +53,5 @@ Here's a list of topics and their associated words for the "Ag News" category.
 - **Finance Crisis:** bankruptcy, airways, pension, airlines, mutual, securities, yukos, accounting, settle, pilots
 - **MidEast Policy:** gaza, ariel, sharon, arafat, palestinians, israeli, jerusalem, palestinian, yasser, strip
 - **American Soccer:** miami, dame, touchdowns, offense, dolphins, eagles, coach, nfl, defensive, knee
+
+   <img src="./img/ag_news-1.png">
