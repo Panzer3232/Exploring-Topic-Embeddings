@@ -2,7 +2,7 @@
 With the advent of embedding-based topic models, topic embeddings have emerged, representing an entire topic with a single embedding vector. However, apart from qualitative evaluations, these embedding vectors and their applications have not been further explored in the literature. In this paper, we leverage the Embedded Topic Model (ETM) with Dirichlet priors to generate topic embeddings. We then explore the use of topic embeddings for semantic understanding and analyze the interactions between topic-topic and topic-word embeddings. This exploration sheds light on several esoteric topics, enhancing our understanding of the corpus. Additionally, we propose a novel technique for learning document embeddings by aggregating topic embeddings at the document level. We benchmark these document embeddings against established GloVe-based document embeddings and the powerful sentence transformer-based document embeddings. Our comprehensive experiments utilize the 20 Newsgroups and AG News datasets, employing a classification task as a robust evaluation metric. The results demonstrate that the proposed document embeddings outperform GloVe and remain competitive against sentence transformers, despite having relatively fewer trainable parameters and datasets. These findings open up new avenues for future research in information retrieval and semantic textual similarity (STS) tasks using topic embeddings.
 
 # Topics-Word from ETM model 
-## 20 NG: [20 Ng Dataset]
+##  Category 1: Topic Labels of 20NG
 Here's a list of topics and their associated words for the first category.
 
 - **ArmeniaHistory:** turkish, genocide, armenian, turks, armenia, turkey, argic, armenians, muslim, serdar
